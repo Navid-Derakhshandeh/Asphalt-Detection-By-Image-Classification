@@ -1,0 +1,10 @@
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\bin\Debug\netstandard2.0\MLModel.zip
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\bin\Debug\netstandard2.0\Asphalt-DetectionML.Model.deps.json
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\bin\Debug\netstandard2.0\Asphalt-DetectionML.Model.dll
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\bin\Debug\netstandard2.0\Asphalt-DetectionML.Model.pdb
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\obj\Debug\netstandard2.0\Asphalt-DetectionML.Model.csprojAssemblyReference.cache
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\obj\Debug\netstandard2.0\Asphalt-DetectionML.Model.AssemblyInfoInputs.cache
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\obj\Debug\netstandard2.0\Asphalt-DetectionML.Model.AssemblyInfo.cs
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\obj\Debug\netstandard2.0\Asphalt-DetectionML.Model.csproj.CoreCompileInputs.cache
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\obj\Debug\netstandard2.0\Asphalt-DetectionML.Model.dll
+D:\Test4\Asphalt-Detection\Asphalt-DetectionML.Model\obj\Debug\netstandard2.0\Asphalt-DetectionML.Model.pdb
